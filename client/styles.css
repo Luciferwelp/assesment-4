@@ -1,0 +1,83 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .color {
+    background-color: yellow;
+    color: black;
+    border: 2px solid yellow;
+  }
+  
+  .color:hover {
+    background-color: yellow;
+    color: white;
+  }
+  
+  .place {
+    background-color: yellow;
+    color: black;
+    border: 2px solid yellow;
+  }
+  
+  .place:hover {
+    background-color: yellow;
+    color: white;
+  }
+.ritual {
+    background-color: yellow;
+    color: black;
+    border: 2px solid yellow;
+      }
+      
+      .ritual:hover {
+        background-color: yellow;
+        color: white;
+      }
